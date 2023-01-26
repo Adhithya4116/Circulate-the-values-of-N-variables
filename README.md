@@ -21,8 +21,8 @@ print the circulated values
 ## Program:
 ```
 #Program to circulate N values.
-#Developed by: 
-#RegisterNumber:
+#Developed by: adhithya perumal
+#RegisterNumber: 22008747
 def circulate():
     l=eval(input())
     n=int(input())
@@ -31,6 +31,6 @@ def circulate():
 ```
 
 ## Output:
-![output](circulateoutput.png)
+![output](circulate.png)
 ## Result:
 thus the experiment executed sucessfully
